@@ -8,7 +8,7 @@ One of the great advantages of Linux application containers is the rich ecosyste
 
 <center>
 
-![](kubernetes.png)
+![kubernetes](kubernetes.png)
 
 </center>
 
